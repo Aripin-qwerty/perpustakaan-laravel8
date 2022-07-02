@@ -1,0 +1,29 @@
+.container {
+    width: 96%;
+    margin: 20px auto;
+}
+
+.book {
+    width: 48%;
+    float: left;
+    background: red;
+    margin: 5px;
+    padding: 10px;
+}
+
+img {
+    width: 15%;
+    float: left;
+    line-height: 120px;
+}
+
+button {
+    border: 0;
+    font-size: 12px;
+    border-radius: 10px;
+    padding: 6px 6px;
+    background: #4d72deed;
+    float: right;
+    margin-left: -10px;
+    cursor: pointer;
+}
